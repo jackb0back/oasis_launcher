@@ -1,5 +1,13 @@
 Store = [
     {
+        name: "BETA IS NOW CLOSED",
+        desc: "thanks for trying out the OASIS launcher beta",
+        img: "https://www.pngmart.com/files/22/Emoji-Thumbs-Up-PNG-File.png",
+        type: "html",
+        src: ""
+    
+    }
+   /* {
         name: "Eaglercraft",
         desc: "survival minecraft 1.5.2",
         img: "https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png",
@@ -35,5 +43,5 @@ Store = [
             img: "https://osis-gms.netlify.app/projects/baldis-basics/splash.png",
             type: "html",
             src: "1QdOb1JalkDeFxI7rzqKukxh0o90vxmO3"
-            }
+            }*/
 ];

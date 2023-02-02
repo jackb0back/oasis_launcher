@@ -1,1 +1,1 @@
-var updateVer = "beta_0.3";
+var updateVer = "beta_0.4";
